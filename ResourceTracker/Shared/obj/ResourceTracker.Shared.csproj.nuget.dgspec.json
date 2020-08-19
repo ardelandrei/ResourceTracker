@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\ResourceTracker.Shared.csproj": {}
+    "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\ResourceTracker.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\ResourceTracker.Shared.csproj": {
+    "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\ResourceTracker.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\ResourceTracker.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\ResourceTracker.Shared.csproj",
         "projectName": "ResourceTracker.Shared",
-        "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\ResourceTracker.Shared.csproj",
+        "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\ResourceTracker.Shared.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

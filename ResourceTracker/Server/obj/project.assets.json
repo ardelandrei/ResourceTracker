@@ -6312,11 +6312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Server\\ResourceTracker.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Server\\ResourceTracker.Server.csproj",
       "projectName": "ResourceTracker.Server",
-      "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Server\\ResourceTracker.Server.csproj",
+      "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Server\\ResourceTracker.Server.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6335,11 +6335,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Client\\ResourceTracker.Client.csproj": {
-              "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Client\\ResourceTracker.Client.csproj"
+            "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Client\\ResourceTracker.Client.csproj": {
+              "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Client\\ResourceTracker.Client.csproj"
             },
-            "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\ResourceTracker.Shared.csproj": {
-              "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker2\\Shared\\ResourceTracker.Shared.csproj"
+            "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\ResourceTracker.Shared.csproj": {
+              "projectPath": "C:\\Users\\Andrei\\source\\repos\\ResourceTracker\\ResourceTracker\\Shared\\ResourceTracker.Shared.csproj"
             }
           }
         }
