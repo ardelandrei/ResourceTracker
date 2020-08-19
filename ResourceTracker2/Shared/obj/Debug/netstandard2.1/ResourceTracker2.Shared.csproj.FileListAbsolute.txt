@@ -1,0 +1,9 @@
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\bin\Debug\netstandard2.1\ResourceTracker2.Shared.deps.json
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\bin\Debug\netstandard2.1\ResourceTracker2.Shared.dll
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\bin\Debug\netstandard2.1\ResourceTracker2.Shared.pdb
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker2.Shared.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker2.Shared.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker2.Shared.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker2.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker2.Shared.dll
+C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker2.Shared.pdb
