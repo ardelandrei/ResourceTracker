@@ -1,9 +1,0 @@
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\bin\Debug\netstandard2.1\ResourceTracker.Shared.deps.json
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\bin\Debug\netstandard2.1\ResourceTracker.Shared.dll
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\bin\Debug\netstandard2.1\ResourceTracker.Shared.pdb
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker.Shared.AssemblyInfoInputs.cache
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker.Shared.AssemblyInfo.cs
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker.Shared.csproj.CoreCompileInputs.cache
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker.Shared.dll
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker.Shared.pdb
-C:\Users\Andrei\source\repos\ResourceTracker\ResourceTracker2\Shared\obj\Debug\netstandard2.1\ResourceTracker.Shared.csprojAssemblyReference.cache
