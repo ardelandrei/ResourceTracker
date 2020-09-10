@@ -1,0 +1,21 @@
+﻿@page "/query"
+@using Microsoft.AspNetCore.WebUtilities
+@inject NavigationManager NavigationManager
+
+<h1>Query string parse example</h1>
+
+<p>Value: @queryValue</p>
+
+@code {
+    private string queryValue = "Not set";
+
+    protected override void OnInitialized()
+    {
+        var query = new Uri(NavigationManager.Uri).Query;
+
+        if (QueryHelpers.ParseQuery(query).TryGetValue("eu", out var value))
+        {
+            queryValue = value;
+        }
+    }
+}
